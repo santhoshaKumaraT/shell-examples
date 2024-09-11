@@ -4,7 +4,8 @@
 #Date : 10-Sep-2024
 #Version v1
 #This script will report the resources
-############################
+###########################
+#&&&&&&&&&&&&&&&&&&&&&&&&&#
 #AWS S3
 #AWS EC2
 #AWS Lambda
