@@ -1,0 +1,37 @@
+List of S3 Buckets
+===================
+cf-templates-15eiv3rzbycrd-eu-west-1
+migration-team-spdb-dev
+mm-spdp-files
+spdb-dev-ericsson-backup-vault-report-bucket
+spdb-dev-live-terraform-state
+List of EC2 Instances
+=======================
+"i-043407036a9fff65f"
+"i-0301d17e56d1b9d12"
+List of Lambda Functions
+=========================
+"Instance-Scheduler-MetricsUuidGenerator172A04DB-304bOPte56I4"
+"CIS-update-acc-pass-policy-id-06826ab4ec73"
+"ECN-VPC-nACP-NetworkSQSNotifierLambdaFunction-wdkeLEKFRESu"
+"Instance-Scheduler-schedulingRequestHandlerLambdaC-365J9E7AaxTH"
+"StackSet-OrganizationalCo-ConfigurationRecorderCre-96joTmkVqeo1"
+"InstanceScheduler-default-SpokeRegistration"
+"HbiNotify"
+"Instance-Scheduler-ASGHandler0F6D6751-dEcB5RnUrXVM"
+"Instance-Scheduler-SchedulingOrchestratorBB4C4C5A-GMYPNZpw7hbi"
+"Instance-Scheduler-ASGSchedulerASGOrchestrator6629-Kzbn1walEe7c"
+"Instance-Scheduler-InstanceSchedulerMain"
+"cpu-mem-usage-lambda"
+"SC-auto-portfolio-association-066dc312f26b"
+"ECN-VPC-nACP-DNSSQSNotifierLambdaFunction-fICrNV5Ts0U3"
+"securityhub-custom-insights"
+"DisableCIS-AllAccounts-EnabledRegions-id-06826ab4ec73"
+"StackSet-OrganizationalCo-ConfigurationRecorderRem-cxYWinfdmYhd"
+"lambda-spdb-dev-stream-logs"
+"DisableCIS-EcnAccounts-EnabledRegions-id-06826ab4ec73"
+"Instance-Scheduler-ASGSchedulerScheduleUpdateHandl-d5Q4Or5zigeY"
+"disk-usage-lambda"
+List of IAM Users
+===================
+"Gitlab_Runner"
