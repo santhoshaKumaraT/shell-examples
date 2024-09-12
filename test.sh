@@ -3,3 +3,5 @@
 ##Sub
 #
 #Mul
+#MUL
+#Percent
